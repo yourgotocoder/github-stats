@@ -5,6 +5,6 @@
       "maxDuration": 10
     }
   },
-  "redirects": [{destination: "/"}
+  "redirects": [{"source": "/",}
   ]
 }
